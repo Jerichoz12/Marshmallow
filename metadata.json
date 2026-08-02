@@ -1,0 +1,11 @@
+{
+  "name": "Remix Remix Marshmallow by EchoPH",
+  "description": "Private messaging web app with password-only authentication, real-time messaging, WebRTC video calls, voice notes, media sharing, and friend requests.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
